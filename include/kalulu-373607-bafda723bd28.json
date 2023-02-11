@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kalulu-373607",
+  "private_key_id": "bafda723bd289eacc93df82d175c854e1f9d428c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9KVFf7LtBXdCs\n8watrSS9sBO+VuWLunIf8tIaor2hxO6yndl/HwXd67nuKeOhfxKb0Uq7hePX9UT7\ns6jbbN35FjQorq3E+1UERj8II7grKGQ+L9Eo7u1H4lhoos/VypDUUAf2Pjm6Bz7U\nzswPBxdjtqT5ILZDWEHatcnZb0dFHS/hoJJZdslhRB5HVtRctymCDWZjtYtvcgcn\ngnivU46XKMpuhmBTImWa8hbZbOusOEcAZMCAcSk/DR0qAPu24Y11wg8t12EeTsUI\nKJ3BR/CwvP2UMkfyanEgjIDqV8+E0kXWdaPR4ZygoZUZOAidK9n9EKOrBp9p3x0a\nS6IA3YvNAgMBAAECggEAIRP71SKkRyS05D12NkIwCdSjyzXOW64NnW0clQhO0V5K\n4GSufyaJY9qAD7f3BItgUWuaniqmYmITP1GWLlK+CTv7AH81R1ws7HutM4rtfmyI\nhQBfGsGXMCoSTC/mWKwcwefB0KtmdFOmhtenwtv6WNc8R41TGfkxwOFnq/Rj2d+Z\nBBidwvZmRrElWV7HV2oH019NFOLIXJX3TRVZZnYk3LYv/2hzn7Pc5WhDpXO9Pc9E\nhGAeFoMiLPpW8mVDpGwNlNEjg3BB7JL2JLUuUfkDoKfqUh3LqfmbMA80bF+8o3qi\nuMGd7/La3aZDasodmLV0D/vsJL8HGQHq2jcg+lalSQKBgQDdwt3aV0S1gcdylfow\nzAtevvRIgwu7rywy1psXpbF/O2jgQtrMEVMuTEAhvjmbqfy3xBbHyEMVJ9jQQsG8\njpcVoJk4lq5Jx2t8hDd0AwCnWboN7Gva13C82xEiH29l0l93+xYkidOhwXwm02+V\nCIgjM0jXp1kTcq+pZ7SkgAd0iQKBgQDaXfDgxhjUjE6riT1k9sO40My4tElCxGdR\nEUmFk2b1FiHF76NExlSVVs+7oCMNOlnul/iyXkw7DpNsWDBz1P5P2bNN/FzbbrPp\nFsNUjP+vYzq8uU1kZ3uea8tL2/zByyura2sNhfggVSCjQ07vU4uTxlAUJsRoXQvy\n3YeUB3cUJQKBgQCKfYfPM3DVaZcFGGSG1ObE5LvqDOzm6R7RIPT6b5/JtXBpnVbG\n2or3/uaOLB4N+Lq6iNsxKP+71oawiQA0oVf5SbJmhLOTn9agjHGVIcrmuEJZL6yr\nnp/pUWYByV/oVtkINOY/K1PfUNYX6TNl/04FraFwDDK00oqhYQKPOOVvAQKBgQCe\ndilEk7yVETRNmovo5oFlbnABYSMAxpHK7GaT/kFqfSMJBjtOvzXGIXchyrVk9gEo\n+TNKDM/40zz8FIsko13hCDPr1cR0oEMCVLhudNtepP2M0lNtFwNIFSUz6XHkF9Ga\n1Zqb96n1nJDQqRlw5wmUtQaLeQ5yRYNUPJoUO86X2QKBgDDTE+PXbygfyqi4mixA\nm3YP5ATKWeoLINZMRKou8rYxKd78jjtgeiC1pwuPaXGx24MR8OF+lXrkgmJ+/qFt\n4NevkilF0aKiIge9BhvoC8V48R7fuLQimrAaSsJZKaqZTDQb8tkrOpRky0YhfnGb\nRsYa0su7x1VktWbnwIYOlkFG\n-----END PRIVATE KEY-----\n",
+  "client_email": "kalulu-erp@kalulu-373607.iam.gserviceaccount.com",
+  "client_id": "108542796120960297106",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kalulu-erp%40kalulu-373607.iam.gserviceaccount.com"
+}
