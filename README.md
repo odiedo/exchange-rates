@@ -3,6 +3,7 @@
 This project is a web application for calculating currency exchange rates, particularly for the Kalulu Enterprise. It includes functionalities for selecting currencies, exchange types, and rates, and it outputs the conversion result. Additionally, it integrates with Google Sheets API to log the transactions.
 Results will be shown in the results setion after it has been saved in the google sheets.
 The link for google-sheet that I used - https://docs.google.com/spreadsheets/d/1IYeqSp3deEAzwITgfCigESwYi9kORfUTeS7AT5ax0gc/edit?usp=share_link
+![image](https://github.com/user-attachments/assets/f88016d7-7919-48b1-848f-64fc4d8dafd9)
 
 
 ## Features
@@ -72,6 +73,7 @@ The link for google-sheet that I used - https://docs.google.com/spreadsheets/d/1
 5. **Run the application:**
 
     Place the project in your web server's root directory (e.g., `htdocs` for XAMPP) and navigate to `http://localhost/exchange-rates` in your web browser.
+![image](https://github.com/user-attachments/assets/27749751-67e6-4acf-91b2-4cc4e0d2e4d4)
 
 ## Usage
 
